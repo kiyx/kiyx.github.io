@@ -1,0 +1,17 @@
+# Cartella del sito generato da Jekyll
+# (GitHub Pages la genera da sola)
+_site/
+
+# Cartelle di cache di Jekyll e Sass
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# File generati da Bundler (le "gemme")
+# Non vogliamo caricare tutte le librerie
+vendor/
+.bundle/
+
+# File di sistema operativo
+.DS_Store
+Thumbs.db

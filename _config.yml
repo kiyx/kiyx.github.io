@@ -1,0 +1,70 @@
+# --- Impostazioni Base del Sito ---
+lang: "it-IT"
+title: "Kiyx - Portfolio"
+name: "Giuseppe Paolo Esposito"
+description: "Studente triennale di Informatica e Sviluppatore. Benvenuto nel mio portfolio."
+url: "https://kiyx.github.io"
+repository: "kiyx/kiyx.github.io"
+
+# --- Impostazioni del Tema Minimal Mistakes ---
+theme: minimal-mistakes-jekyll
+skin: "dark" 
+
+# --- Profilo Autore ---
+author:
+  name: "Giuseppe Paolo Esposito"
+  avatar: "/assets/images/profile-pic.jpg"
+  bio: "Laureando triennale in Informatica @ UniNA. Appassionato di Cybersecurity e AI."
+  location: "Napoli, Italia"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:espositogiuseppe2003@outlook.it"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/giuseppepaoloesposito/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kiyx"
+    - label: "File CV (PDF)"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/files/Tuo_CV.pdf"
+
+# --- Impostazioni di Build ---
+include:
+  - "_pages"
+  - "_posts"
+  - "_portfolio"
+
+# Aggiungi questo per abilitare la Collezione Progetti
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
+# Impostazioni di default per le Pagine
+defaults:
+  # Tutte le pagine
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+  # Tutti i post del blog
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+  # Tutti i progetti del portfolio
+  - scope:
+      path: ""
+      type: "portfolio"
+    values:
+      layout: single
+      author_profile: true
+      
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
