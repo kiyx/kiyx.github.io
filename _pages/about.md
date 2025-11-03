@@ -9,6 +9,8 @@ Sono uno studente Laureando triennale in Informatica...
 
 Il mio obiettivo è specializzarmi in Cybersecurity.
 
+[Scarica il mio CV (PDF)](/assets/files/Tuo_CV.pdf){: .btn .btn--primary }
+
 ## Competenze Tecniche
 
 Ecco un riepilogo delle tecnologie con cui lavoro:
