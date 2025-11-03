@@ -1,18 +1,16 @@
-# Cartella del sito generato da Jekyll
-# (GitHub Pages la genera da sola)
+# Cartella del sito generato
 _site/
 
-# Cartelle di cache di Jekyll e Sass
+# Cache di Jekyll e Bundler
 .jekyll-cache/
 .jekyll-metadata
 .sass-cache/
-Gemfile.lock
-
-# File generati da Bundler (le "gemme")
-# Non vogliamo caricare tutte le librerie
 vendor/
 .bundle/
 
-# File di sistema operativo
+# File di sistema
 .DS_Store
 Thumbs.db
+
+# Ignoriamo il file di lock per evitare conflitti di piattaforma
+Gemfile.lock

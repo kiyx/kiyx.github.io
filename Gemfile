@@ -1,6 +1,10 @@
 source "https://rubygems.org"
 
+# Gemma principale di Jekyll
 gem "jekyll"
+
+# Il tuo tema
 gem "minimal-mistakes-jekyll"
-gem "webrick"
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+# Serve per il server locale (jekyll serve)
+gem "webrick", ">= 1.9.1"
