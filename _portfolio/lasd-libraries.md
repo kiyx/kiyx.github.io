@@ -1,6 +1,8 @@
 ---
 title: "Librerie Algoritmi e Strutture Dati"
-excerpt: "Implementazione da zero in C++ di strutture dati fondamentali (vettori, liste, set, heap) per il corso di Laboratorio di Algoritmi e Strutture Dati (LASD)."
+excerpt: "Strutture dati fondamentali in C++ (vector, list, set, heap) per il corso LASD."
+date: 2024-10-15
+last_modified_at: 2025-01-12
 header:
   teaser: "/assets/images/teasers/cpp-logo.png"
 tags:
@@ -8,10 +10,11 @@ tags:
   - Strutture Dati
   - Algoritmi
   - Progetto Universitario
-
-# Aggiungi il link al tuo repo GitHub
-link_github: "https://github.com/kiyx/lasdlibraries24-25"
+toc: true
+classes: wide
 ---
+
+{% include button label="Codice su GitHub" icon="fab fa-github" url="https://github.com/kiyx/lasdlibraries24-25" %}
 
 Questo progetto è stato sviluppato per il corso di **Laboratorio di Algoritmi e Strutture Dati (LASD)**. L'obiettivo era implementare da zero, in C++, una libreria di contenitori generici e strutture dati, senza l'uso della Standard Template Library (STL).
 

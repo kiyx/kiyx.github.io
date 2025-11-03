@@ -1,6 +1,8 @@
 ---
 title: "UninaFoodLab (Gestionale Corsi di Cucina)"
-excerpt: "Applicazione gestionale full-stack (Java Swing & PostgreSQL) per un laboratorio di cucina, sviluppata per il corso di Basi di Dati e Object Orientation."
+excerpt: "Applicazione gestionale full-stack (Java Swing & PostgreSQL) per un laboratorio di cucina."
+date: 2024-06-01
+last_modified_at: 2025-01-10
 header:
   teaser: "/assets/images/teasers/java-db.png"
 tags:
@@ -12,16 +14,16 @@ tags:
   - Progettazione DB
   - UML
   - Progetto Universitario
-
-link_github: "https://github.com/kiyx/uninafoodlab"
+toc: true
+classes: wide
 ---
+
+{% include button label="Codice su GitHub" icon="fab fa-github" url="https://github.com/kiyx/uninafoodlab" %}
+{% include button label="Documentazione (PDF)" icon="fas fa-file-pdf" url="https://github.com/kiyx/uninafoodlab#readme" %}
 
 `UninaFoodLab` è un'applicazione gestionale completa sviluppata per il corso di **Basi di Dati e Object Orientation (OOBD)**. Il sistema gestisce le operazioni di un laboratorio di cucina fittizio, dalla gestione dei corsi e degli chef, fino alla creazione di report mensili.
 
-L'architettura del progetto è divisa in due componenti principali:
-
 ## 1. Il Database (Backend)
-
 È stato progettato e implementato un database relazionale in **PostgreSQL** per gestire tutta la logica di business.
 * **Progettazione:** Creazione di diagrammi ER e UML per definire la struttura dei dati e le relazioni.
 * **Logica Avanzata:** Utilizzo di trigger, funzioni e procedure (PL/pgSQL) per garantire l'integrità dei dati e automatizzare compiti complessi (es. calcolo dei report).
