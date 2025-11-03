@@ -1,7 +1,7 @@
 ---
 title: "UninaFoodLab (Gestionale Corsi di Cucina)"
 excerpt: "Applicazione gestionale full-stack (Java Swing & PostgreSQL) per un laboratorio di cucina."
-date: 2024-06-01
+date: 2025-06-30
 last_modified_at: 2025-10-29
 header:
   teaser: "/assets/images/teasers/java-db.png"
