@@ -5,6 +5,7 @@ description: "Studente triennale di Informatica e Sviluppatore. Benvenuto nel mi
 url: "https://kiyx.github.io"
 repository: "kiyx/kiyx.github.io"
 title_separator: " | " 
+title: "Kiyx"
 
 # --- Impostazioni del Tema Minimal Mistakes ---
 theme: minimal-mistakes-jekyll
