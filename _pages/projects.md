@@ -1,12 +1,10 @@
 ---
 title: "I Miei Progetti"
 permalink: /projects/
-layout: archive
+layout: collection
 author_profile: true
-
-collection: portfolio 
-
-type: grid 
+collection: portfolio
+entries_layout: grid
 ---
 
 Benvenuto nella galleria dei miei progetti...
