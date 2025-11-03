@@ -9,3 +9,4 @@ gem "minimal-mistakes-jekyll"
 # Serve per il server locale (jekyll serve)
 gem "webrick", ">= 1.9.1"
 gem "faraday-retry"
+gem "jekyll-archives"

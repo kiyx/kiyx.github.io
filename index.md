@@ -8,7 +8,7 @@ feature_row:
     title: "UninaFoodLab"
     excerpt: "Gestionale corsi di cucina (Java Swing + PostgreSQL)."
     url: "/portfolio/unina-food-lab/"
-    btn_label: "Scopri"
+    btn_label: "Apri"
     btn_class: "btn--primary"
   - image_path: /assets/images/teasers/cpp-logo.png
     alt: "LASD Libraries"

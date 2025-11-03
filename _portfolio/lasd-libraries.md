@@ -2,7 +2,7 @@
 title: "Librerie Algoritmi e Strutture Dati"
 excerpt: "Strutture dati fondamentali in C++ (vector, list, set, heap) per il corso LASD."
 date: 2024-10-15
-last_modified_at: 2025-01-12
+last_modified_at: 2025-06-17
 header:
   teaser: "/assets/images/teasers/cpp-logo.png"
 tags:
