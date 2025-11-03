@@ -4,6 +4,8 @@ name: "Giuseppe Paolo Esposito"
 description: "Studente triennale di Informatica e Sviluppatore. Benvenuto nel mio portfolio."
 url: "https://kiyx.github.io"
 repository: "kiyx/kiyx.github.io"
+title: "Kiyx - Portfolio"
+title_separator: " | " 
 
 # --- Impostazioni del Tema Minimal Mistakes ---
 theme: minimal-mistakes-jekyll
@@ -15,7 +17,7 @@ search: true
 author:
   name: "Giuseppe Paolo Esposito"
   avatar: "/assets/images/profile-pic.jpg"
-  bio: "Laureando triennale in Informatica @ UniNA. Appassionato di Cybersecurity e AI."
+  bio: "Laureando in Informatica @ UniNA.\nAppassionato di Cybersecurity e AI."
   location: "Napoli, Italia"
   links:
     - label: "Email"

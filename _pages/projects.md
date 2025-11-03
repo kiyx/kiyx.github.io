@@ -1,5 +1,5 @@
 ---
-title: "Progetti | Kiyx - Portfolio"
+title: "Progetti"
 permalink: /projects/
 layout: collection
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-title: "Blog | Kiyx - Portfolio"
+title: "Blog"
 permalink: /blog/
 layout: archive
 author_profile: true
