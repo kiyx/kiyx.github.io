@@ -1,12 +1,15 @@
 source "https://rubygems.org"
 
-# Gemma principale di Jekyll
 gem "jekyll"
-
-# Il tuo tema
 gem "minimal-mistakes-jekyll"
-
-# Serve per il server locale (jekyll serve)
 gem "webrick", ">= 1.9.1"
 gem "faraday-retry"
-gem "jekyll-archives"
+
+group :jekyll_plugins do
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-feed"
+  gem "jekyll-paginate"
+  gem "jekyll-include-cache"
+  gem "jekyll-archives"
+end
