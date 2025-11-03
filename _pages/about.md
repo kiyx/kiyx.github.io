@@ -1,29 +1,17 @@
 ---
-title: "Chi Sono"
+title: "Chi sono"
 permalink: /about/
 layout: single
 author_profile: true
 ---
 
-Sono uno studente Laureando triennale in Informatica...
+Sono uno studente di Informatica (triennale) all’Università di Napoli Federico II. Mi interessa progettare e sviluppare software pulito e affidabile, con focus su strutture dati, basi di dati e qualità del codice. Voglio specializzarmi in Cybersecurity: oggi ne so ancora poco, ma sto costruendo fondamenta solide e pratico con costanza.
 
-Il mio obiettivo è specializzarmi in Cybersecurity.
-
-[Scarica il mio CV (PDF)](/assets/files/Tuo_CV.pdf){: .btn .btn--primary }
-
-## Competenze Tecniche
-
-Ecco un riepilogo delle tecnologie con cui lavoro:
-
-### Linguaggi
-* Java (Intermedio)
-* C/C++ (Intermedio)
-
-### Framework e Strumenti
-* Git & GitHub
-* Docker
-* SQL (PostgreSQL, MySQL)
-
-### Altro
-* Metodologie Agili (Scrum)
-* Algoritmi e Strutture Dati
+## Competenze
+- Linguaggi: C, C++, Java
+- UI Java: Swing, JavaFX
+- Database: SQL, PostgreSQL, PL/pgSQL
+- Backend: Spring Boot, REST
+- DevOps/Cloud: Docker, AWS
+- Strumenti: Git, GitHub
+- Metodi: OOP, UML, testing di base

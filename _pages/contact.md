@@ -1,5 +1,5 @@
 ---
-title: "Contatti"
+title: "Contatti | Kiyx - Portfolio"
 permalink: /contact/
 layout: single
 author_profile: true
