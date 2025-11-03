@@ -21,4 +21,6 @@ feature_row:
 
 # Benvenuto
 
+Ecco i miei progetti in evidenza! 
+
 {% include feature_row id="feature_row" %}

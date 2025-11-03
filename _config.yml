@@ -9,7 +9,6 @@ title_separator: " | "
 # --- Impostazioni del Tema Minimal Mistakes ---
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
-logo: "/assets/images/profile-pic.jpg"
 search: true
 
 # --- Profilo Autore ---
