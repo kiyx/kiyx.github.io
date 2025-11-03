@@ -1,12 +1,11 @@
-# main navigation
 main:
   - title: "Home"
     url: /
-  - title: "Chi Sono"
-    url: /about/
   - title: "Progetti"
     url: /projects/
   - title: "Blog"
     url: /blog/
+  - title: "Chi sono"
+    url: /about/
   - title: "Contatti"
     url: /contact/
