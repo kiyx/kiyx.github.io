@@ -68,3 +68,8 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+# Impostazioni Tema
+theme_settings:
+  show_toggle: true 
+  default_theme: "dark"

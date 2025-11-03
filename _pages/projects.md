@@ -1,10 +1,10 @@
 ---
 title: "I Miei Progetti"
 permalink: /projects/
-layout: archive
+layout: collection
 author_profile: true
 
-collection: _portfolio 
+collection: portfolio 
 
 type: grid 
 ---
