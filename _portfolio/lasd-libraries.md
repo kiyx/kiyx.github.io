@@ -14,7 +14,7 @@ toc: true
 classes: wide
 ---
 
-{% include button label="Codice su GitHub" icon="fab fa-github" url="https://github.com/kiyx/lasdlibraries24-25" %}
+{% include button.html text="Codice su GitHub" icon="fab fa-github" url="https://github.com/kiyx/lasdlibraries24-25" %}
 
 Questo progetto è stato sviluppato per il corso di **Laboratorio di Algoritmi e Strutture Dati (LASD)**. L'obiettivo era implementare da zero, in C++, una libreria di contenitori generici e strutture dati, senza l'uso della Standard Template Library (STL).
 

@@ -18,8 +18,8 @@ toc: true
 classes: wide
 ---
 
-{% include button label="Codice su GitHub" icon="fab fa-github" url="https://github.com/kiyx/uninafoodlab" %}
-{% include button label="Documentazione (PDF)" icon="fas fa-file-pdf" url="https://github.com/kiyx/uninafoodlab#readme" %}
+{% include button.html text="Codice su GitHub" icon="fab fa-github" url="https://github.com/kiyx/uninafoodlab" %}
+{% include button.html text="Documentazione (PDF)" icon="fas fa-file-pdf" url="https://github.com/kiyx/uninafoodlab#readme" %}
 
 `UninaFoodLab` è un'applicazione gestionale completa sviluppata per il corso di **Basi di Dati e Object Orientation (OOBD)**. Il sistema gestisce le operazioni di un laboratorio di cucina fittizio, dalla gestione dei corsi e degli chef, fino alla creazione di report mensili.
 
