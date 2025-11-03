@@ -21,4 +21,4 @@ feature_row:
 
 # Benvenuto
 
-{% include feature_row %}
+{% include feature_row id="feature_row" %}

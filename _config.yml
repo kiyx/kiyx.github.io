@@ -8,7 +8,10 @@ repository: "kiyx/kiyx.github.io"
 
 # --- Impostazioni del Tema Minimal Mistakes ---
 theme: minimal-mistakes-jekyll
-skin: "dark" 
+minimal_mistakes_skin: "dark"
+logo: "/assets/images/profile-pic.jpg"
+og_image: "/assets/images/profile-pic.jpg"
+search: true
 
 # --- Profilo Autore ---
 author:
@@ -83,8 +86,3 @@ jekyll-archives:
   collections:
     - posts
     - portfolio
-    
-# Impostazioni Tema
-theme_settings:
-  show_toggle: true 
-  default_theme: "dark"
