@@ -1,7 +1,7 @@
 ---
 title: "I Miei Progetti"
 permalink: /projects/
-layout: collection
+layout: archive
 author_profile: true
 
 collection: portfolio 
